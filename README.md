@@ -1,2 +1,2 @@
 # HMIS_examen
-Probando cosas de cara al examen
+Probando cosas de cara al PRUEBA
